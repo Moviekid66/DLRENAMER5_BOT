@@ -6,7 +6,7 @@
         "Mongo DB"
     ],
     "repository": "https://github.com/MRK-YT/RENAMER_BOT",
-    "success_url": "https://telegram.dog/mo_tech_group",
+    "success_url": "https://telegram.dog/dldupdates",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
